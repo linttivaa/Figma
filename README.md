@@ -27,7 +27,7 @@ This project was also an internal project. Citizen's helpdesk (Kansalaisen IT-tu
 and I got to create the design for it. Here are few examples of the design.
 
 <br>
-<p margin= "10px">
+<p padding= "20px">
 <img src= "Public/KITT_Front_Page.png" alt="Front page" width="719" heigth="512">
 <img src= "Public/KITT_Archive.png" alt="Archive page" width="721" heigth="668">
 <<img src= "Public/KITT_New_Ticket.png" alt="new ticket" width="720" heigth="630">
