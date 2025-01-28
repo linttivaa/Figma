@@ -8,7 +8,12 @@ Project's outcome is an application for students and teacher to better manage pr
 I've created the design for the mobile version together with another student. These pictures are purely my work. 
 Fonts, colours and some other features were given due to the existence of a design for the web version of the application. 
 
-<p style= "text-align: right"><img src= "Public/PG_Sign_In.png" alt="Sign in page" width="388" heigth="840"></p>
+<div class= "image-gallery">
+![Sign in page]("Public/PG_Sign_In.png")
+![find projects page]("Public/PG_Find_Projects.png")
+![Profile page]("Public/PG_Profile_Page.png" )
+
+<p style= "align: right"><img src= "Public/PG_Sign_In.png" alt="Sign in page" width="388" heigth="840"></p>
 <p style= "text-align: center"><img src= "Public/PG_Find_Projects.png" alt= "Find projects page" width="211" heigth="962"></p>
 <p style= "text-align: left"><img src= "Public/PG_Profile_Page.png" alt= "Profile page" width="254" heigth="965"></p>
 
