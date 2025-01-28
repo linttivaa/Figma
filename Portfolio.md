@@ -8,4 +8,4 @@ Project's outcome is an application for students and teacher to better manage pr
 I've created the design for the mobile version together with another student. These pictures are purely my work. 
 Fonts, colours and some other features were given due to the existence of a design for the web version of the application. 
 
-<img src= "C:\Users\Admin\Documents\CV ja muuta\Kuvia UI &UX CV\Project gate mobiilia\PG_Sign_In.png">
+<img src= "Public/PG_Sign_In.png">
