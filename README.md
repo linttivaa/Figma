@@ -32,3 +32,14 @@ and I got to create the design for it. Here are few examples of the design.
 <img src= "Public/KITT_Archive.png" alt="Archive page" width="721" heigth="668">
 <<img src= "Public/KITT_New_Ticket.png" alt="new ticket" width="720" heigth="630">
 </p>
+
+<br>
+<br>
+<br>
+
+### Gamified platform for collecting items
+This project was an external project where I cretaed a design for a collector's platform. 
+<br>
+
+<img src= "Public/Collector platform.png" alt="Front page" width="719" heigth="512">
+
