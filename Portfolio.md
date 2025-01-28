@@ -9,5 +9,6 @@ I've created the design for the mobile version together with another student. Th
 Fonts, colours and some other features were given due to the existence of a design for the web version of the application. 
 
 <img src= "Public/PG_Sign_In.png">
-<img src= "Public/PG_Find_Projects.png">
-<img src= "Public/PG_Profile_Page.png>
+<img src= "Public/PG_Find_Projects.png"><img src= "Public/PG_Profile_Page.png">
+
+
