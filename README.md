@@ -39,6 +39,7 @@ and I got to create the design for it. Here are few examples of the design.
 
 ### Gamified platform for collecting items
 This project was an external project where I cretaed a design for a collector's platform. 
+It was created with customer provided pictures and vloesly in collaboration with the customer. 
 <br>
 
 <img src= "Public/Collector platform.png" alt="Front page" width="719" heigth="512">
